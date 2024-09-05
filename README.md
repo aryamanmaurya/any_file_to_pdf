@@ -56,7 +56,9 @@ python3 any_file_to_pdf.py input_file output_file.pdf
 ### Example:
 
 ```bash
-python3 any_file_to_pdf.py sample.docx output.pdf
+python3 any_file_to_pdf.py
+now: provide the file name
+a pdf file will be saved with same name .pdf extention.
 ```
 
 This will convert the `sample.docx` file to `output.pdf`.
